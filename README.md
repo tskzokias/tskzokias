@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Taksh Goyal
-- 👀 I’m interested in Gameplay/Game AI Programming
-- 🌱 I’m currently learning Unreal/Unity Engine
-- 💞️ I’m looking to collaborate on Video Games 
+- 👀 I’m interested in Engineering in C++
+- 🌱 I’m currently learning System Design and always learning Data Structures and Algorithms for efficiency while writing code
+- 💞️ I’m looking to collaborate to help youngsters with their knowledge in creating efficient game systems 
 - 📫 How to reach me takshg350@gmail.com
 
 <!---
